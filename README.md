@@ -32,40 +32,15 @@ rails db:drop db:create db:migrate db:seed
 rails s
 ```
 
-[Access the API endpoints from the frontend application]()
+[Access the API endpoints from the frontend application](https://github.com/Whoistolu/lease-a-home-frontend)
 
 
-👤 **Author1**
-
-**Chawanzi Ng'uni**
-- GitHub: [@chaw-bot](https://github.com/chaw-bot)
-- Twitter: [@chawfronaut](https://twitter.com/chawfronaut)
-- LinkedIn: [Chawanzi Ng'uni](https://www.linkedin.com/in/chawanzi-ng-uni-449328212/) 
-
-👤 **Author2**
-
-**Henry Kc**
-- GitHub: [@githubhandle](https://github.com/HENRYKC24)
-- Twitter: [@twitterhandle](https://twitter.com/henrykc24)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/henry-kc)
-
-
-👤 **Author3**
+👤 **Author**
 
 **Ajise Toluwase**
 - GitHub: [@githubhandle](https://github.com/Whoistolu)
 - Twitter: [@twitterhandle](https://twitter.com/Littletolu)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/toluwase-ajise-9b40411b2/)
-
-
-👤 **Author4**
-
-**Abdul Wuyep**
-
-- GitHub: [@wuyepabdul](https://github.com/wuyepabdul)
-- Twitter: [@AbdulWuyep](https://twitter.com/AbdulWuyep)
-- LinkedIn: [Abdul Wuyep](https://www.linkedin.com/in/abdul-wuyep/)
-
 
 
 ## 🤝 Contributing
