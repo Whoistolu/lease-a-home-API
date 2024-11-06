@@ -12,7 +12,7 @@ Here is the [Link](https://github.com/HENRYKC24/lease-a-home-frontend/tree/main)
 ## To get a local copy run the following steps:
 - Copy this link [this link](https://github.com/chaw-bot/lease-a-home-API)
 - Open your terminal or command line
-- Run "git clone Paste [this link](https://github.com/chaw-bot/lease-a-home-API)"
+- Type "git clone" + Paste [this link](https://github.com/chaw-bot/lease-a-home-API)
 - Open the folder with your code editor
 - Create a branch to work on
 
