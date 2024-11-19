@@ -81,6 +81,4 @@ test:
 #
 production:
   <<: *default
-  database: lease_a_home_API_production
-  username: lease_a_home_API
-  password: <%= ENV["LEASE_A_HOME_API_DATABASE_PASSWORD"] %>
+  url: <%= ENV["DATABASE_URL"] %>
