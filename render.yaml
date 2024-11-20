@@ -1,0 +1,18 @@
+# Exported from Render on 2024-11-20T03:00:20Z
+services:
+- type: web
+  name: lease-a-home-API
+  runtime: ruby
+  repo: https://github.com/Whoistolu/lease-a-home-API
+  plan: free
+  envVars:
+  - key: SECRET_KEY_BASE
+    sync: false
+  - key: RAILS_SKIP_ASSET_COMPILATION
+    sync: false
+  - key: WEB_CONCURRENCY
+    sync: false
+  region: oregon
+  buildCommand: bundle install && bundle exec rake db:migrate
+  startCommand: bundle exec puma -C config/puma.rb
+version: "1"
